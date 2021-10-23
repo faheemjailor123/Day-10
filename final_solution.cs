@@ -69,7 +69,7 @@ public class EmpWageBuilder: IComputeEmpWage
     }
     
     1 reference 
-   publiuc void setTotalEmpWage(int totalEmpWage)
+   public void setTotalEmpWage(int totalEmpWage)
    {
      this.totalEmpWage =  totalEmpWage;
    }
